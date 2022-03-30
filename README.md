@@ -7,6 +7,6 @@
 
 # index.js
   Импортировать компонент - import NewWidget from './newWidget.js';
-  Дописать ReactDom.render - <NewWidget /> ( Полная команда - ReactDOM.render(<NewWidget />, document.getElementById('root')); )
+  Дописать ReactDom.render отрисовку компонента NewWidget
   
   
